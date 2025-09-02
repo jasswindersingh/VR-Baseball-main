@@ -29,5 +29,5 @@ Nine Square Grid Mode: In this mode, players can choose additional modes and sco
 
 
 
-![VR Screenshot](https://github.com/LeeMoofon0222/VR-Baseball/blob/main/%E5%9C%96%E7%89%871.png)
+
 
