@@ -8,8 +8,7 @@ public class ins_ball : MonoBehaviour
     public Transform ins_point;
     void Update()
     {
-        if (isball)
-        {
+        if (isball) {
             StartCoroutine("InsBall");
             isball = false;
         }
