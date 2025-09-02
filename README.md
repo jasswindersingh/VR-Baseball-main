@@ -26,8 +26,3 @@ Nine Square Grid Mode: In this mode, players can choose additional modes and sco
 **Game Tutorial:** The main menu interface offers text instructions for gameplay to help players understand how to play and the objectives of the game.
 
 **Scoring Challenges:** The Nine Square Grid mode includes scoring challenges of varying difficulty, providing players with ongoing goals and a sense of achievement. The interface displays the player's current score and the highest score in real-time.
-
-
-
-
-
